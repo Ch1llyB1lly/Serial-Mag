@@ -23,7 +23,7 @@ Zooming in/out: To zoom in, press the handle down. To zoom out, hold the handle 
 
 I hope you enjoy it!
 
-## The device is pretty much plug and play!
+#### The device is pretty much plug and play!
 
 ## Pictures
 ![alt text](https://github.com/Chiron8/3Dbind/blob/images/image(6).png)
